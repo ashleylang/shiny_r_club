@@ -3,6 +3,8 @@
 # interface will include choosing girls name and boys name
 # default colors will be purple and springgreen
 
+#hi
+
 # load libraries ----
 if (!require ('ggplot2')) install.packages('ggplot2')
 library(ggplot2) # for general plotting
